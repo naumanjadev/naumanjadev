@@ -1,7 +1,7 @@
 # Nauman Raja
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adamguido&label=Profile%20views&color=0e75b6&style=flat" alt="adamguido" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=naumanraja&label=Profile%20views&color=0e75b6&style=flat" alt="adamguido" /> </p>
 
 ## About Me
 
