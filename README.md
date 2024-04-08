@@ -5,7 +5,8 @@
 
 ## About Me
 
-I am a seasoned software engineer with over 10 years of experience in building innovative solutions and leading development teams. My expertise lies in a wide range of technologies, including Web3.js, Solidity, Ethereum, React, Next.js, and Python. I am passionate about pushing the boundaries of technology and enjoy exploring the latest tech stacks.
+
+I am a proficient full-stack developer proficient in JavaScript and Python-related technologies and frameworks, with over a decade of experience crafting innovative solutions and guiding development teams. My skill set spans various domains, encompassing blockchain technologies like Ethereum, Solana, and utilizing OpenAI APIs. I thrive on pushing technological boundaries and eagerly delve into the latest tech stacks to stay ahead of the curve
 
 ## Contact Information
 
