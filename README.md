@@ -14,10 +14,15 @@ I am a seasoned software engineer with over 10 years of experience in building i
 ## Professional Achievements
 
 -Led many successful projects using both traditional and blockchain technologies.
+
 -Have lots of experience designing and making web and blockchain solutions that can handle a lot of users and keep data safe.
+
 -Know how to make decentralized apps (DApps) on the Ethereum blockchain using Solidity and Web3.js.
+
 -Good at making modern websites using React and Next.js to give users a great experience.
+
 -Know Python well for analyzing data, making machine learning models, and building the backend of websites.
+
 
 ## Fun Fact
 
